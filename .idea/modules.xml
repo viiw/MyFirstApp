@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFirstApp.iml" filepath="$PROJECT_DIR$/MyFirstApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDview/TDview.iml" filepath="$PROJECT_DIR$/TDview/TDview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autocompletetxtview/autocompletetxtview.iml" filepath="$PROJECT_DIR$/autocompletetxtview/autocompletetxtview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/costumadapter/costumadapter.iml" filepath="$PROJECT_DIR$/costumadapter/costumadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout/layout.iml" filepath="$PROJECT_DIR$/layout/layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdexo1h/tdexo1h.iml" filepath="$PROJECT_DIR$/tdexo1h/tdexo1h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdintent/tdintent.iml" filepath="$PROJECT_DIR$/tdintent/tdintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tdlisteviewobjet/tdlisteviewobjet.iml" filepath="$PROJECT_DIR$/tdlisteviewobjet/tdlisteviewobjet.iml" />
+    </modules>
+  </component>
+</project>

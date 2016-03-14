@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lands">je suis en portrait</string>
+    <string name="welcome_messages">Bonjour, %1$s! Vous avez %2$d nouveaux messages</string>
+    <string-array name="Jours_Semaine">
+        <item>Dimanche</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+    </string-array>
+</resources>

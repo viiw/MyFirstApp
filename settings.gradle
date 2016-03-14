@@ -1,0 +1,1 @@
+include ':app', ':myapplication', ':layout', ':TDview', ':autocompletetxtview', ':tdlisteviewobjet', ':costumadapter', ':tdintent', ':tdexo1h'

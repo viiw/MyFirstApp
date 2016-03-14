@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CostumAdapter</string>
+    
+    <string-array name="titles">
+        <item>Meme 1</item>
+        <item>Meme 12</item>
+        <item>Meme 13</item>
+        <item>Meme 14</item>
+        <item>Meme 15</item>
+        <item>Meme 16</item>
+        <item>Meme 17</item>
+        <item>Meme 18</item>
+        <item>Meme 19</item>
+        <item>Meme 11</item>
+
+
+    </string-array>
+
+    <string-array name="descriptiopn">
+        <item>Description 1</item>
+        <item>Description 12</item>
+        <item>Description 13</item>
+        <item>Description 14</item>
+        <item>Description 15</item>
+        <item>Description 16</item>
+        <item>Description 17</item>
+        <item>Description 18</item>
+        <item>Description 19</item>
+        <item>Description 11</item>
+
+
+    </string-array>
+
+
+
+</resources>
